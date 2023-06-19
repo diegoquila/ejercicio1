@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+
+.container{
+    margin-top: 10px;
+    align-items: center;
+}
+
+h5{
+    text-align: center;
+    color: whitesmoke;
+    
+}
+
+.mb-3{
+    margin: 10px;
+}
+
+.card-body{
+    background-color: blueviolet;
+}
